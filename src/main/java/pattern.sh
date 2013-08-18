@@ -1,2 +1,3 @@
 #!/bin/bash 
+export JENKINS_MAVEN_AGENT_ADDRESS=$OPENSHIFT_INTERNAL_IP
 echo Hello World 
